@@ -2,8 +2,8 @@
 
 **1. Clone github:**
 
-git clone https://github.com/zerosuNLD/EVC.git \n
-cd EVC
+  - git clone https://github.com/zerosuNLD/EVC.git 
+  - cd EVC
 
 **2. Setup enviroment**
   - conda create -n aisnp --file spec-file.txt
