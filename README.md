@@ -3,6 +3,7 @@ git clone https://github.com/zerosuNLD/EVC.git
 cd EVC
 
 2. Setup enviroment
+
 conda create -n aisnp --file spec-file.txt
 conda activate aisnp
 pip install pandas numpy scipy scikit-learn xgboost matplotlib seaborn tqdm statsmodels requests
