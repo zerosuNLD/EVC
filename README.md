@@ -42,6 +42,7 @@ train_model.py:
   - output_plot: đường dẫn tới hình ảnh so sánh, đánh giá hiệu suất các mô hình
     
 **3. Chạy:**
+
 B1: Chạy hard filters:
    ./run_hard_filters.sh
    
