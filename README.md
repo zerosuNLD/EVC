@@ -1,7 +1,8 @@
 **Các bước cái đặt**
 
 **1. Clone github:**
-git clone https://github.com/zerosuNLD/EVC.git
+
+git clone https://github.com/zerosuNLD/EVC.git \n
 cd EVC
 
 **2. Setup enviroment**
@@ -10,6 +11,7 @@ cd EVC
   - pip install pandas numpy scipy scikit-learn xgboost matplotlib seaborn tqdm statsmodels requests
 
 **3. Thiết lập dường dẫn dữ liệu đầu vào**
+
 run_hard_filters.sh:
   - INPUT_BFILE: đường dẫn tới dữ liệu của input: chứa thông tin mã gen của từng dog_id ( file: darwins_dogs_genetic_set/DarwinsDogs_2024_N-3277_canfam4_gp-0.70_biallelic .bim, .bam, .bed)
   - OUTPUT_DIR: đường dẫn đầu ra sau bước hard_filters để lọc bớt các snp ( ví dụ: darwins_dogs_genetic_set/output/ )
