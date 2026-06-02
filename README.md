@@ -1,3 +1,7 @@
+# Bài toán:
+Dự đoán đặc điểm ngoại hình ( màu mắt, màu tóc, màu da,...) từ dữ liệu Gen. 
+
+
 **Các bước cái đặt**
 
 **1. Clone github:**
